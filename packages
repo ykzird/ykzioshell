@@ -1,0 +1,10 @@
+git
+curl
+wget
+jq
+net-tools
+lsof
+vim
+apt-transport-https
+ca-certificates
+software-properties-common
